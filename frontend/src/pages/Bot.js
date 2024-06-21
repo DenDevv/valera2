@@ -91,8 +91,10 @@ const Bot = () => {
                         <p>Це чудовий інструмент для пассивного інвестування, який за рахунок складного відсотка
                             збільшує Ваш капітал.</p>
                     </div>
-                    <a href = "https://t.me/volodymyr_fx">
-                    <button className="button_style first_block_button">
+                    <a href = "#">
+                    <button className="button_style first_block_button" onClick={() => {
+                            document.querySelector(".video_about_page").classList.add("dis_block")
+                        }}>
                         Придбати бота
                     </button>
                     </a>
@@ -159,8 +161,10 @@ const Bot = () => {
 <br/>
                             Користуючись алгоритмами, наші клієнти отримали більше 20-ти виплат з проп-компаній на загальну суму більше 22 000 доларів.
                         </p>
-                        <a href = "https://t.me/volodymyr_fx">
-                        <button className = "button_style">
+                        <a href = "#">
+                        <button className = "button_style" onClick={() => {
+                            document.querySelector(".video_about_page").classList.add("dis_block")
+                        }}>
                             Придбати бота
                         </button>
                         </a>
@@ -224,8 +228,10 @@ const Bot = () => {
                     <img src = {pidkl4} alt = ""/>
                 </div>
 
-                <a href = "https://t.me/volodymyr_fx">
-                <button className = "button_style">
+                <a href = "#">
+                <button className = "button_style" onClick={() => {
+                            document.querySelector(".video_about_page").classList.add("dis_block")
+                        }}>
                     Придбати
                 </button>
                 </a>
