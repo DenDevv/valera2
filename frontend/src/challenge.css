@@ -1,0 +1,1455 @@
+
+
+.gray_block_chall{
+    background:#f3f7f6 url("./images/mnogo.svg");
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 697px;
+    z-index: 1;
+}
+.first_block .main_description_chall{
+    z-index: 2;
+}
+@media screen and (min-width: 1920px) {
+    .process img{
+        margin-left: 50%;
+        transform: translate(-50%);
+    }
+
+}
+.process{
+    overflow-x: hidden;
+}
+.first_block img {
+
+    z-index: 2;
+
+}
+.main_page_banner div, .main_page_banner h1, .main_page_banner img{
+    z-index: 2;
+}
+.gray_block_chall{
+    z-index: 1 !important;
+    width: 100vw;
+}
+@media screen and (min-width: 1920px){
+    .first_block{
+        width: 1920px !important;
+        transform: translate(-50%);
+        margin-left: 50%;
+
+    }
+    .white_block{
+        width: 100vw !important;
+        transform: translate(-50%);
+        margin-left: 50%;
+    }
+    .main_idea_challenge{
+        width: 1920px !important;
+        transform: translate(-50%);
+        margin-left: 50%;
+    }
+    .perev_challenge_third_block{
+        width: 1920px !important;
+        transform: translate(-50%);
+        margin-left: 50%;
+    }
+    .process_f.for_tablet_mobile_min{
+        width: 1920px !important;
+        transform: translate(-50%);
+        margin-left: 50%;
+    }
+    .process_s{
+        width: 1920px !important;
+        transform: translate(-50%);
+        margin-left: 50%;
+    }
+}
+.mob_top{
+    display: none;
+}
+.m{
+    display: block;
+}
+.white_block{
+    background: #FFFFFF;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 292px;
+}
+.main_h1_challenge_chall{
+    width: 100%;
+    height: 154px;
+    font-size: 64px;
+    position: relative;
+    font-weight: 600;
+    line-height: 76px;
+
+}
+.main_h1_challenge_chall span{
+    background: linear-gradient(276.58deg, #369FAE 0%, #6BE4CA 91.46%, #6BE4CA 91.81%);
+    border-radius: 12px;
+    padding: 10px 19px;
+    margin-left: -19px;
+    color: white;
+}
+.main_description_chall{
+    width: 921px;
+    margin-top: 215px;
+    margin-left: 179px;
+    position: absolute;
+}
+.perev_challenge{
+    margin-top: 24px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    width: 446px;
+    color: #000000;
+}
+.first_block_button{
+    padding: 14px 72px;
+    border-radius: 87px;
+    margin-top: 24px;
+
+}
+.first_block img{
+    position: absolute;
+    width: 852px;
+    height: 640px;
+    top: 50px;
+    right: 49px;
+}
+.main_idea_challenge{
+    padding: 80px 295px 100px 295px;
+}
+.main_idea_challenge h2{
+    color: #002E25;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 76px;
+}
+.about_idea_challenge{
+    display: grid;
+    margin-top: 32px;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 53px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+}
+.video_about_challenge{
+    margin-top: 56px;
+    width: 100%;
+}
+.perev_challenge_third_block{
+    padding: 93px 160px 120px 160px;
+}
+.about_perev_challenge{
+    display: flex;
+    border-radius: 12px;
+    box-shadow: 0 4px 45px 0 #CFCFCF40;
+    padding: 61px 0 61px 61px;
+}
+.about_perev_challenge_first{
+    margin-right: 93px;
+    margin-top: 3px;
+    margin-left: 3px;
+
+}
+.about_perev_challenge_first h2{
+    color: black;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57px;
+    text-align: left;
+}
+.about_perev_challenge_first li{
+    padding-left: 35px;
+    list-style-type: none;
+    background: url("./images_challenge/Vector (4).png") no-repeat;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    margin-top: 24px;
+}
+.about_perev_challenge img{
+    margin-right: 61px;
+    width: 661px;
+    height: 388px;
+}
+.process{
+    padding: 160px 120px;
+    background: #F3F7F6;
+    width: 100%;
+
+}
+.process h2{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57px;
+    text-align: center;
+    width: 100%;
+
+}
+.process h2 span{
+    background: linear-gradient(276.58deg, #369FAE 0%, #6BE4CA 91.46%, #6BE4CA 91.81%);
+    border-radius: 12px;
+    padding: 10px 19px;
+    margin-left: 0px;
+    color: white;
+}
+.video_about_challenge iframe{
+    height: 748px;
+    width: 100%;
+}
+.desc_prices_chall_ins.f button {
+    margin-top: 189px;
+}
+.desc_prices_chall_ins.s .about_prices_faq.two_block{
+    margin-top: 99px;
+}
+.process_f{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 0px;
+
+
+}
+.process_f img{
+    width: 112%;
+}
+.process_s{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 0px;
+    margin-top: -74px;
+}
+.process_s img{
+    width: 108%;
+}
+.video_about_challenge_s{
+    padding: 160px 222px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.video_about_challenge_s h2{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57px;
+    text-align: center;
+    width: 100%;
+
+}
+.video_variants div{
+    cursor: pointer;
+}
+.video_variants{
+    width: 1600px;
+}
+.video_about_challenge_s iframe{
+    width: 1600px;
+    height: 748px;
+}
+.video_variants_video{
+    margin-top: 24px;
+    width: 1600px;
+    height: 748px;
+    border-radius: 24px;
+    overflow: hidden;
+}
+.desc_prices_chall.first_p .about_prices_faq{
+    margin-top: 80px;
+
+}
+.button_style.first_block_button{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+}
+.about_prices_faq.two_block{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background: none;
+    grid-gap: 24px;
+}
+.about_prices_faq.two_block div{
+    background: #FFF383;
+    padding: 29px 45px  ;
+    display: flex;
+    align-items: center;
+}
+.about_prices_faq.two_block {
+    padding: 0;
+}
+.dis_block{
+display: block;
+}
+.dis_none{
+display: none !important;
+}
+.video_variants_video iframe{
+width: 100%;
+height: 100%;
+}
+.video_variants{
+width: 1600px;
+margin-top: 36px;
+background: #F5F5F5;
+border-radius: 10px;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+height: 77px;
+font-size: 24px;
+font-weight: 600;
+line-height: 19px;
+
+}
+.video_variants span{
+margin: 8px;
+
+display: flex;
+justify-content: center;
+align-items: center;
+height: 79%;
+border-radius: 10px;
+}
+.video_variants span.variants_chall_video{
+background: white;
+}
+
+.challenge_prices{
+padding: 80px 160px 198px 160px;
+}
+.challenge_prices h2{
+font-size: 64px;
+font-weight: 700;
+line-height: 76px;
+text-align: center;
+width: 100%;
+}
+.challenge_prices_desc{
+width: 660px;
+margin-left: 50%;
+transform: translate(-50%);
+margin-top: 24px;
+text-align: center;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+
+}
+.challenge_prices_tar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.challenge_prices_tar_variants{
+width: 1600px;
+margin-top: 36px;
+background: #F5F5F5;
+border-radius: 10px;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+height: 77px;
+font-size: 24px;
+font-weight: 600;
+line-height: 19px;
+}
+.challenge_prices_tar_variants span{
+margin: 8px;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 79%;
+border-radius: 10px;
+}
+.challenge_prices_tar_variants span.variants_chall{
+background: white;
+}
+.desc_prices_chall{
+    border-radius: 12px;
+display: grid;
+grid-template-columns: 1fr 2fr;
+grid-gap: 24px;
+margin-top: 24px;
+    width: 1600px;
+}
+.desc_prices_chall_ins.f, .desc_prices_chall_ins.s{
+padding: 32px 24px 24px 24px;
+box-shadow: 0 4px 45px 0 #CFCFCF40;
+
+
+}
+.logo_prices_chall{
+display: flex;
+justify-content: center;
+}
+.desc_chall_prices{
+margin-top: 55px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.desc_chall_prices .price{
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+text-align: left;
+
+}
+.prices_pr{
+margin-top: 4px;
+width: 100%;
+}
+.prices_pr_ins{
+display: flex;
+justify-content: space-between;
+border-bottom: 1px solid #E9E9E9;
+padding-bottom: 12px;
+padding-top: 12px;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+
+}
+.desc_prices_chall_ins.f button{
+padding: 14px 120px;
+margin-top: 127px;
+border-radius: 87px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.desc_prices_chall_ins.s{
+padding: 32px;
+}
+.description_prices_main{
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-gap: 44px;
+}
+.perev_desc_prices .zag{
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+color: #A7A7A7;
+
+
+}
+.about_zag{
+margin-top: 32px;
+}
+.about_zag ul li{
+list-style-type: none;
+background: url("./images_challenge/gal.png") no-repeat;
+padding-left: 44px;
+margin-bottom: 24px;
+font-size: 24px;
+line-height: 28px;
+text-align: left;
+
+}
+.perev_desc_prices.s ul li{
+list-style-type: none;
+background: url("./images_challenge/star.png") no-repeat;
+padding-left: 44px;
+margin-bottom: 24px;
+font-size: 24px;
+line-height: 28px;
+text-align: left;
+}
+.about_zag .zag{
+margin-top: 34px;
+}
+.about_zag_star ul li{
+list-style-type: none;
+background: url("./images_challenge/star.png") no-repeat;
+padding-left: 44px;
+margin-bottom: 24px;
+font-size: 24px;
+line-height: 28px;
+text-align: left;
+margin-right: 36px;
+margin-top: 24px;
+
+}
+.about_zag_star ul{
+display: flex;
+}
+.desc_prices_chall_ins.s .about_prices_faq.two_block{
+    margin-top: 37px;
+}
+.desc_prices_chall_ins.f .about_prices_faq{
+
+    margin-top: 80px;
+}
+.desc_prices_chall.second_p  button {
+    margin-top: 149px;
+}
+.third_p .about_prices_faq{
+    margin-top: 24px;
+}
+.about_prices_faq{
+    background: #FFF383;
+    padding: 44px 36px;
+    text-align: left;
+    font-size: 22px;
+    font-weight: 600;
+    height: 117px;
+    border-radius: 6px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.about_prices_faq img{
+margin-right: 10px;
+}
+.feedback_zag{
+margin-top: 120px;
+margin-left: 160px;
+font-size: 48px;
+font-weight: 700;
+line-height: 57px;
+text-align: left;
+
+}
+.feedback_chall{
+height: 1030px;
+overflow: hidden;
+}
+.feedback_chall .slide{
+width: 300px;
+margin: 0 24px;
+height: 637px;
+}
+.feedback_chall .slide img{
+height: auto;
+    width: 100%;
+    border: 1px solid #E9E9E9;
+    border-radius: 24px;
+}
+.slick-slider.slick-initialized{
+margin-top: 48px;
+
+}
+.otzyv_grid .slick-initialized .slick-slide{
+    margin: 0;
+}
+.slick-initialized .slick-slide{
+margin: 0px 24px;
+}
+.pred{
+padding-bottom: 167px;
+}
+.for_tablet_mobile {
+display: none;
+}
+@media (min-width: 1440px) and (max-width: 1919px){
+    .video_about_challenge iframe{
+        height: 560px;
+    }
+    .about_idea_challenge div{
+       /* font-family: Lato;*/
+    }
+    .pred{
+        padding-bottom: 150px !important;
+    }
+    .feedback_chall .slick-initialized .slick-slide {
+        display: block;
+        width: 225px !important;
+    }
+    .feedback_chall .slick-slider.slick-initialized {
+        height: 477px;
+        overflow: visible;
+    }
+    .feedback_chall {
+        height: 772px;
+        overflow: hidden;
+    }
+    .feedback_chall .slick-initialized .slick-slide {
+        margin: 0px 12px;
+    }
+    .process_s {
+        margin-top: -54px;
+    }
+    .video_variants {
+        width: 996px;
+        margin-top: 36px;
+        height: 51px;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 19px;
+    }
+.main_description_chall {
+    width: 674px;
+    margin-top: 196px;
+    margin-left: 120px;
+}
+    .video_variants span {
+        margin: 4px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 85%;
+        border-radius: 10px;
+    }
+    .video_variants_video {
+        margin-top: 24px;
+        width: 996px;
+        height: 560px;
+        border-radius: 24px;
+        overflow: hidden;
+    }
+    .challenge_prices_tar_variants {
+        width: 1200px;
+        margin-top: 36px;
+
+        height: 51px;
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .desc_prices_chall {
+        width: 1200px;
+    }
+    .main_page_banner .gray_block_chall{
+        height: 600px;
+    }
+    .about_prices_faq.two_block div {
+        padding: 21px 24px;
+    }
+    .desc_prices_chall_ins.f button{
+        margin-top: 89px !important;
+    }
+    .desc_prices_chall.first_p button{
+        margin-top: 74px !important;
+    }
+    .desc_prices_chall.third_p .desc_prices_chall_ins.f button {
+        margin-top: 142px !important;
+    }
+    .strel_sert {
+        right: 0;
+    }
+.desc_prices_chall_ins.s {
+    padding: 24px;
+}
+
+    .desc_chall_prices {
+        margin-top: 24px;
+    }
+    .logo_prices_chall{
+        height: 44px;
+    }
+    .prices_pr {
+        margin-top: 16px;
+        width: 100%;
+    }
+    .desc_prices_chall.first_p .about_prices_faq {
+        margin-top: 35px;
+    }
+    .about_prices_faq.two_block div{
+        border-radius: 6px;
+    }
+    .perev_desc_prices.s ul li {
+        font-size: 20px;
+        line-height: 24px;
+        text-align: left;
+    }
+    .desc_prices_chall_ins.s .about_prices_faq.two_block {
+        margin-top: 0;
+    }
+   .desc_prices_chall.third_p.dis_block .about_prices_faq {
+        padding: 12px 46px;
+        margin-top: 33px;
+    }
+    .about_prices_faq {
+        height: 72px;
+    }
+.main_description_chall button{
+    font-size: 12px;
+}
+.first_block{
+    margin-bottom: 0 !important;
+}
+
+.desc_prices_chall_ins.f button {
+    padding: 14px 103px;
+    margin-top: 245px;
+    font-size: 16px;
+}
+.about_zag ul li {
+    font-size: 20px;
+    line-height: 24px;
+}
+.about_prices_faq {
+    font-size: 20px;
+    line-height: 24px;
+}
+.main_h1_challenge_chall {
+    width: 100%;
+    height: 116px;
+    font-size: 46px;
+    position: relative;
+    font-weight: 600;
+    line-height: 57px;
+}
+    .feedback_zag {
+        margin-top: 90px;
+        margin-left: 120px;
+        font-size: 36px;
+        line-height: 44px;
+        margin-right: 120px;
+    }
+.gray_block_chall {
+    height: 390px;
+}
+.first_block img {
+    position: absolute;
+    width: 684px !important;
+    height: 514px !important;
+    top: 68px;
+    right: 32px;
+}
+.main_idea_challenge {
+    padding: 0px 222px 95px 222px;
+}
+.main_idea_challenge h2 {
+    font-size: 48px;
+    line-height: 57px;
+}
+.about_idea_challenge {
+    margin-top: 24px;
+    grid-gap: 24px;
+    font-size: 15px;
+    line-height: 18px;
+}
+.video_about_challenge {
+    margin-top: 36px;
+}
+.video_about_challenge iframe{
+    width: 100%;
+}
+.perev_challenge_third_block {
+    padding: 80px 120px;
+}
+.about_perev_challenge {
+    padding: 36px 39px 38px 36px;
+}
+.about_perev_challenge_first h2 {
+    font-size: 36px;
+    line-height: 43px;
+    text-align: left;
+}
+.about_perev_challenge_first h2 {
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43px;
+    text-align: left;
+}
+.about_perev_challenge_first{
+    margin-right: -15px;
+}
+.about_perev_challenge_first ul{
+    margin-top: 32px;
+}
+.about_perev_challenge_first li {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.about_perev_challenge img {
+    margin-right: 0;
+    width: 530px;
+    height: 311px;
+}
+.challenge_prices{
+    padding: 80px 120px 71px 120px;
+}
+.challenge_prices h2 {
+    font-size: 48px;
+    line-height: 57px;
+}
+.challenge_prices_desc {
+    margin-top: 24px;
+    font-size: 15px;
+    line-height: 18px;
+}
+.challenge_prices_tar_variants span {
+    margin: 4px;
+    height: 84%;
+}
+.prices_pr_ins {
+    font-size: 20px;
+    line-height: 24px;
+}
+.perev_challenge {
+    font-size: 15px !important;
+    line-height: 18px !important;
+    width: 520px !important;
+}
+.first_block_button {
+    margin-top: 47px !important;
+}
+}
+@media screen and (min-width: 768px) and (max-width: 1439px) {
+    .feedback_chall {
+        height: 800px;
+        overflow: hidden;
+    }
+.main_description_chall {
+    width: 463px;
+    margin-top: 50px;
+    margin-left: 153px;
+    text-align: center;
+}
+.main_h1_challenge_chall {
+    height: 76px;
+    font-size: 32px;
+    line-height: 38px;
+}
+.main_idea_challenge {
+    padding: 80px 36px;
+}
+.perev_challenge {
+    width: 100% !important;
+    margin-top: 24px !important;
+    font-size: 16px !important;
+    line-height: 19px !important;
+    text-align: center !important;
+}
+.first_block_button {
+    padding: 10px 18px !important;
+    border-radius: 65px !important;
+    margin-top: 46px !important;
+    font-size: 12px !important;
+    width: 204px !important;
+}
+.first_block {
+    margin-top: 64px !important;
+}
+.first_block img {
+    width: 768px !important;
+    height: 451px !important;
+    top: 290px !important;
+}
+.main_idea_challenge h2 {
+    font-size: 32px;
+    line-height: 38px;
+}
+.about_idea_challenge {
+    margin-top: 24px;
+    grid-gap: 24px;
+    font-size: 16px;
+    line-height: 19px;
+}
+.video_about_challenge {
+    margin-top: 36px;
+}
+.video_about_challenge iframe{
+    width: 100%;
+}
+.perev_challenge_third_block {
+    padding: 68px 36px;
+}
+.about_perev_challenge {
+   flex-direction: column;
+    padding: 36px;
+}
+.about_perev_challenge_first h2 {
+    font-size: 32px;
+    line-height: 38px;
+}
+.about_perev_challenge_first li {
+    padding-left: 35px;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 16px;
+    height: 28px;
+}
+.about_perev_challenge img {
+    margin-left: 50%;
+    transform: translate(-50%);
+    width: 616px;
+    height: 311px;
+}
+.process {
+    padding: 112px 36px 108px 36px;
+}
+.process h2 {
+    font-size: 32px;
+    line-height: 38px;
+}
+.process_f {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 24px;
+    margin-top: 48px;
+}
+.for_tablet_mobile{
+    display: grid;
+}
+
+.for_tablet_mobile_min{
+    display: none;
+}
+.process_f img {
+    margin-left: 50%;
+    width: 112%;
+    transform: translate(-50%);
+}
+.for_tablet_mobile.y img{
+    width: 106%;
+    margin-left: -21px;
+}
+.video_about_challenge_s {
+    padding: 80px 36px;
+}
+.video_about_challenge_s h2 {
+    font-size: 32px;
+    line-height: 38px;
+}
+.video_variants{
+    margin-top: 16px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+}
+.video_variants span {
+    margin: 4px;
+    height: 84%;
+}
+.challenge_prices {
+    padding: 64px 36px;
+}
+.challenge_prices h2 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+}
+.challenge_prices_desc {
+    width: 696px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 19px;
+}
+.challenge_prices_tar_variants {
+    margin-top: 34px;
+    border-radius: 10px;
+    height: 49px;
+    font-size: 14px;
+    line-height: 17px;
+}
+.desc_prices_chall {
+    grid-template-columns: 216fr 468fr;
+    grid-gap: 12px;
+    margin-top: 16px;
+}
+    .about_prices_faq.two_block div{
+        padding: 21px;
+    }
+.desc_prices_chall_ins.f{
+    padding: 16px 12px 12px 12px;
+}
+.logo_prices_chall img{
+    width: 128px;
+}
+.desc_chall_prices{
+    margin-top: 24px;
+}
+.prices_pr_ins{
+    font-size: 14px;
+    line-height: 17px;
+
+}
+.prices_pr_ins {
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+.desc_prices_chall_ins.f button {
+    padding: 10px 47px;
+    width: 192px;
+    margin-top: 140px;
+    border-radius: 65px;
+    font-size: 12px;
+    line-height: 14px;
+}
+.perev_desc_prices .zag {
+    font-size: 12px;
+    line-height: 14px;
+}
+.desc_prices_chall_ins.s {
+    padding: 12px;
+}
+.about_zag ul li {
+    padding-left: 25px;
+    background: url("./images_challenge/gall.png") no-repeat;
+    margin-bottom: 14px;
+    font-size: 14px;
+    line-height: 17px;
+}
+.perev_desc_prices.s ul li {
+    background: url("./images_challenge/star2.png") no-repeat;
+    padding-left: 25px;
+    margin-bottom: 14px;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: left;
+}
+.about_prices_faq {
+    padding: 9px 62px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    margin-top: 40px;
+}
+.feedback_zag {
+    margin-top: 64px;
+    margin-left: 36px;
+    font-size: 32px;
+    line-height: 38px;
+
+}
+.pred {
+    padding-bottom: 96px;
+}
+.div_burg {
+    display: flex;
+    align-items: center;
+}
+.process_f.for_tablet_mobile{
+    overflow: hidden;
+}
+}
+@media screen and (min-width: 350px) and (max-width: 768px){
+    .video_about_challenge iframe{
+        height: 198px;
+    }
+    .perev_challenge {
+        margin-top: 24px;
+        font-size: 14px;
+        line-height: 17px;
+        text-align: center;
+        width: 351px;
+    }
+    .first_block{
+        height: 552px;
+    }
+.main_description_chall {
+    width: 351px;
+    margin-top: 28px;
+    margin-left: 50%;
+    transform: translate(-50%);
+
+}
+    .feedback_chall .slick-initialized .slick-slide {
+        width: 165px !important;
+    }
+    .feedback_chall .slide img {
+        width: 100%;
+        height: auto;
+    }
+    .feedback_chall {
+        height: 500px;
+    }
+    .about_prices_faq.two_block div {
+        padding: 12px 5px;
+    }
+    .main_header{
+        height: 58px;
+    }
+.first_block{
+    overflow-x: hidden;
+}
+.main_h1_challenge_chall {
+    width: 100%;
+    height: 58px;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+}
+    .video_variants_video {
+        height: 200px;
+        border-radius: 8px;
+        margin-top: 0;
+
+    }
+    .video_variants{
+        grid-template-columns: 140px 140px 140px 140px !important;
+        height: auto !important;
+        background: none;
+        overflow-x: visible !important;
+    }
+    .proc_over{
+        width: 100vw;
+        overflow-x: scroll;
+        height: 90px;
+        padding-top: 13px;
+        padding-left: 12px;
+        scrollbar-width: none;
+    }
+    .razz{
+        width: 107% !important;
+    }
+    .video_variants div{
+        width: 149px;
+    }
+    .video_variants{
+        grid-gap: 14px;
+    }
+    .video_variants span {
+        margin: 4px;
+    }
+    .challenge_prices_tar_variants span {
+        margin: 4px;
+        height: 80%;
+    }
+    .video_variants_video {
+        height: 198px;
+        width: 351px;
+        border-radius: 9px;
+    }
+    .challenge_prices_tar_variants {
+        width: 351px;
+    }
+    .desc_prices_chall{
+        width: 351px;
+    }
+    .desc_prices_chall_ins{
+        border-radius: 7px;
+    }
+    .about_prices_faq{
+        height: 52px;
+    }
+    .desc_prices_chall_ins.s .about_prices_faq.two_block {
+        margin-top: 20px;
+        margin-bottom: 6px;
+    }
+    .video_variants div{
+        background: #F5F5F5;
+        border-radius: 10px;
+        margin: 0 8px 0 0;
+
+    }
+    .video_variants span.variants_chall_video {
+        padding: 8px;
+       margin: 0;
+        height: 100%;
+        border-radius: 10px;
+        box-shadow: 0px 4px 45px 0px #72727240;
+    }
+    .main_h1_challenge_chall {
+     line-height: 29px !important;
+ }
+    .main_h1_challenge_chall span {
+        margin-left: -3px;
+        padding: 3px 19px;
+
+    }
+    .button_style.first_block_button {
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 15px;
+    }
+.first_block_button {
+    padding: 10px 18px;
+    border-radius: 87px;
+    margin-top: 42px;
+    width: 205px;
+}
+.first_block img{
+    width: 100%;
+    height: auto;
+    top: 247px;
+    margin-left: 50%;
+    right: auto;
+    transform: translate(-50%);
+}
+.main_idea_challenge {
+    padding: 36px 12px;
+}
+.main_idea_challenge h2 {
+    font-size: 24px;
+    line-height: 29px;
+}
+.about_idea_challenge {
+    margin-top: 12px;
+    grid-template-columns: 1fr;
+    grid-gap: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+}
+.mob_top{
+    display: block;
+}
+.m{
+    display: none;
+}
+    .about_perev_challenge{
+        border-radius: 9px;
+    }
+br{
+    height: 12px;
+}
+.video_about_challenge iframe{
+    width: 100%;
+}
+.perev_challenge_third_block {
+    padding: 28px 12px;
+}
+.about_perev_challenge {
+    flex-direction: column;
+    display: flex;
+    box-shadow: 0 4px 45px 0 #CFCFCF40;
+    padding: 18px 0 18px 16px;
+}
+.about_prices_faq{
+    font-size: 11px !important;
+}
+.about_prices_faq img{
+    width: 15px;
+}
+.about_prices_faq{
+    text-align: left;
+    line-height: 14px !important;
+}
+    .about_prices_faq img {
+        margin-right: 6px;
+    }
+    .desc_prices_chall_ins.s .about_prices_faq.two_block {
+        margin-top: 20px;
+    }
+    .desc_prices_chall.first_p .about_prices_faq {
+        margin-top: 20px;
+    }
+    .feedback_chall .slick-slider.slick-initialized {
+        height: 349px !important;
+    }
+    .feedback_chall .slide img {
+
+        border: 1px solid #E9E9E9;
+        border-radius: 14px;
+    }
+    .feedback_chall .slick-initialized .slick-slide {
+        margin: 0px 7px !important;
+    }
+    .slick-slider.slick-initialized {
+        margin-top: 30px;
+    }
+    .about_prices_faq.two_block {
+        grid-gap: 8px;
+    }
+.about_perev_challenge_first h2 {
+    font-size: 16px;
+    line-height: 19px;
+}
+.about_perev_challenge_first {
+    margin-right: 16px;
+    margin-top: 3px;
+    margin-left: 3px;
+    font-size: 14px;
+    line-height: 17px;
+}
+.about_perev_challenge img {
+    margin-right: 0;
+    width: 100%;
+     height: auto;
+}
+
+
+.process {
+    padding: 48px 12px;
+    background: #F3F7F6;
+    width: 100%;
+}
+.process h2 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    width: 290px;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+.first_img{
+    margin-top: 57px;
+}
+.process_f.for_tablet_mobile_min{
+    margin-top: 57px;
+}
+.process_s{
+    margin-top: -34px !important;
+}
+.for_tablet_mobile_min.non{
+    display: none !important;
+}
+    .process img{
+        margin-top: -57px;
+    }
+    .process_s img{
+        width: 112% !important;
+
+    }
+    .process h2 span{
+        padding: 2px 19px;
+    }
+.process_f {
+    grid-template-columns: 1fr;
+    grid-gap: 0px;
+}
+.process_s {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 0px;
+    margin-top: -45px;
+}
+.video_about_challenge_s {
+    padding: 36px 12px;
+}
+.video_about_challenge_s h2 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: center;
+    width: 100%;
+}
+.video_variants {
+    width: 100%;
+    margin-top: 16px;
+    height: 38px;
+    font-size: 12px;
+    line-height: 14px;
+    overflow-x: scroll;
+}
+.challenge_prices {
+    padding: 36px 12px;
+}
+.challenge_prices h2 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: center;
+    width: 100%;
+}
+.challenge_prices_desc {
+    width: 100%;
+    margin-left: 50%;
+    transform: translate(-50%);
+    margin-top: 24px;
+    font-size: 14px;
+    line-height: 17px;
+}
+.challenge_prices_tar_variants {
+    margin-top: 28px;
+    height: 41px;
+    font-size: 14px;
+    line-height: 17px;
+}
+.desc_prices_chall {
+    grid-gap: 12px;
+    grid-template-columns: 1fr;
+    margin-top: 24px;
+}
+.desc_prices_chall_ins.f, .desc_prices_chall_ins.s {
+    padding: 12px;
+}
+.logo_prices_chall img{
+    width: 128px;
+}
+.desc_chall_prices {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.desc_prices_chall_ins.f button {
+    padding: 10px 18px;
+    margin-top: 15px;
+    border-radius: 87px;
+}
+.prices_pr_ins {
+    padding-bottom: 7px;
+    padding-top: 7px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+}
+
+.description_prices_main {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+}
+.perev_desc_prices .zag {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14px;
+}
+.about_zag ul li {
+    padding-left: 25px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    background: url("./images_bot/galll.png") no-repeat;
+    line-height: 17px;
+    text-align: left;
+}
+.perev_desc_prices.s ul li {
+    padding-left: 25px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    background: url("./images_challenge/star2.png") no-repeat;
+    line-height: 17px;
+    text-align: left;
+}
+.about_prices_faq {
+    padding: 9px 17px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 17px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+    .process_s img {
+        width: 93%;
+    }
+    .process_f.for_tablet_mobile_min{
+        margin-bottom: 34px;
+    }
+.about_perev_challenge_first li {
+    padding-left: 28px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    background: url("./images/grad_gal.svg") no-repeat;
+    margin-top: 16px;
+}
+
+.feedback_zag {
+    margin-top: 36px;
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
+    font-size: 24px;
+    line-height: 28px;
+}
+.process{
+    overflow: hidden;
+}
+.process_f.for_tablet_mobile_min div{
+    display: flex;
+    justify-content: center;
+}
+.process_s .for_tablet_mobile_min{
+    display: flex;
+    justify-content: center;
+}
+
+}
