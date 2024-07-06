@@ -3,10 +3,10 @@ import "../bot.css"
 import iphones from "../images_bot/iphones_Main.png"
 import perev from "../images_bot/perev.png"
 import videoBot from "../images_bot/video_bot.png"
-import stat from "../images_bot/stat.png"
+import stat from "../images_bot/stat1.png"
 import need1 from "../images_bot/need1.png"
 import miniLogo from "../images_bot/mini_logo.png"
-import hiTrading from "../images_bot/hiTr.png"
+import hiTrading from "../images_bot/stat6.png"
 import stat2 from "../images_bot/stat2.png"
 import pidkl2 from "../images_bot/pidkl2.png"
 import pidkl3 from "../images_bot/pidkl3.png"
@@ -15,7 +15,7 @@ import FPidkl from "../images_bot/FPidkl.svg"
 import SPidkl from "../images_bot/SPidkl.svg"
 import TPidkl from "../images_bot/TPidkl.svg"
 import FoPidkl from "../images_bot/FoPidkl.svg"
-import HiBot1440 from "../images_bot/1440HiBot.svg"
+import HiBot1440 from "../images_bot/stat5.png"
 import Sertifikate from "../components/Sertifikate";
 import SliderChallenge from "../components/PricesChallenge";
 import MainMenuHeader from "../components/MainMenuHeader";
@@ -91,10 +91,8 @@ const Bot = () => {
                         <p>Це чудовий інструмент для пассивного інвестування, який за рахунок складного відсотка
                             збільшує Ваш капітал.</p>
                     </div>
-                    <a href = "#">
-                    <button className="button_style first_block_button" onClick={() => {
-                            document.querySelector(".video_about_page").classList.add("dis_block")
-                        }}>
+                    <a href = "https://t.me/volodymyr_fx">
+                    <button className="button_style first_block_button">
                         Придбати бота
                     </button>
                     </a>
@@ -161,10 +159,8 @@ const Bot = () => {
 <br/>
                             Користуючись алгоритмами, наші клієнти отримали більше 20-ти виплат з проп-компаній на загальну суму більше 22 000 доларів.
                         </p>
-                        <a href = "#">
-                        <button className = "button_style" onClick={() => {
-                            document.querySelector(".video_about_page").classList.add("dis_block")
-                        }}>
+                        <a href = "https://t.me/volodymyr_fx">
+                        <button className = "button_style">
                             Придбати бота
                         </button>
                         </a>
@@ -228,10 +224,8 @@ const Bot = () => {
                     <img src = {pidkl4} alt = ""/>
                 </div>
 
-                <a href = "#">
-                <button className = "button_style" onClick={() => {
-                            document.querySelector(".video_about_page").classList.add("dis_block")
-                        }}>
+                <a href = "https://t.me/volodymyr_fx">
+                <button className = "button_style">
                     Придбати
                 </button>
                 </a>
